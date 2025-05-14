@@ -1,6 +1,6 @@
 # A simple real-time messaging application built entirely in rust to learn more how TCP servers, Http Request, and real-time applications work
 
-> How to use
+[How to use]
 
 One user will start the server using:
 ```
