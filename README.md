@@ -1,5 +1,7 @@
 # Introduction
 A simple real-time messaging application built entirely in rust to learn more how TCP servers, Http Request, and real-time applications work
+**NOTE (Requires CARGO to be installed to compile binaries for your system)
+-- Tutorial to install rust here >> https://www.rust-lang.org/tools/install
 
 >
 How to use
